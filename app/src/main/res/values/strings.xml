@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OMDB Sample</string>
+    <string name="search_hint">Enter title here...</string>
+    <string name="search_error">An error occurred while trying to fetch data:\n%1$s</string>
+</resources>
